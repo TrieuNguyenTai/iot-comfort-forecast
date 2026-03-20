@@ -110,7 +110,7 @@ docker run iot-comfort
 
 ## 📷 Demo
 
-> *(Add GUI screenshot or demo video here)*
+> ![Demo](assets/demo.png)
 
 ---
 
