@@ -1,0 +1,38 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Trained models & scalers
+models/
+*.pkl
+*.h5
+*.pt
+
+# Report files
+*.docx
+*.pptx
+*.ppt
+*.doc
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.ipynb
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
