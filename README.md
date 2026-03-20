@@ -92,7 +92,7 @@ docker run iot-comfort
 - **Indoor:** ThingSpeak (DHT11/22 sensor via ESP8266)
 - **Period:** 2022–2025
 - **Size:** ~35,000 hourly data points
-- **Download:** [Google Drive](https://drive.google.com/your-link-here) ← *replace with actual link*
+- **Download:** [Google Drive](https://drive.google.com/file/d/1xV6abYWinP3NCzBp63BdPIR_nMILOKAg/view?usp=drive_link) ← *replace with actual link*
 
 ---
 
